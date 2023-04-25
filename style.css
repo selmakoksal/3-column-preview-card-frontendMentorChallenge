@@ -9,3 +9,15 @@ h1 {
 p {
     color: hsla(0, 0%, 100%, 0.75);
 }
+
+.sedans {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.suvs {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+}

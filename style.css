@@ -36,3 +36,7 @@ p {
 .button-luxury {
     color: hsl(179, 100%, 13%);
 }
+
+.button-sedans, .button-suvs, .button-luxury {
+    background-color: whitesmoke;
+}

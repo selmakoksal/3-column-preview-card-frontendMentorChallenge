@@ -7,10 +7,17 @@ body {
 
 h1 {
     color: whitesmoke;
+    font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
 }
 
 p {
     color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+input {
+    font-family: 'Lexend Deca', sans-serif;
 }
 
 .sedans {

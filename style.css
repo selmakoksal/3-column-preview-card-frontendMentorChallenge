@@ -14,6 +14,7 @@ h1 {
 p {
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
+    height: 180px;
 }
 
 input {

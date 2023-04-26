@@ -39,4 +39,6 @@ p {
 
 .button-sedans, .button-suvs, .button-luxury {
     background-color: whitesmoke;
+    border: 1px whitesmoke;
+    border-radius: 25px;
 }

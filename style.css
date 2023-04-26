@@ -12,12 +12,15 @@ p {
 
 .sedans {
     background-color: hsl(31, 77%, 52%);
+    padding: 40px;
 }
 
 .suvs {
     background-color: hsl(184, 100%, 22%);
+    padding: 40px;
 }
 
 .luxury {
     background-color: hsl(179, 100%, 13%);
+    padding: 40px;
 }

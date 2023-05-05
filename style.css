@@ -88,3 +88,32 @@ input {
     color: whitesmoke;
     border: 3px solid whitesmoke;
 }
+
+@media screen and (max-width: 450px) {
+    .row {
+        width: 300px;
+        height: 600px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        flex-direction: column;
+    }
+
+    p {
+        height: 110px;
+    }
+
+    img {
+        margin-bottom: 10px;
+    }
+
+    .sedans {
+        border-radius: 7px 7px 0 0;
+    }
+
+    .luxury {
+        border-radius: 0 0 7px 7px;
+    }
+}

@@ -59,7 +59,7 @@ input {
 
 .button-sedans, .button-suvs, .button-luxury {
     background-color: whitesmoke;
-    border: 1px whitesmoke;
+    border: 1px solid whitesmoke;
     border-radius: 25px;
-    padding: 15px 25px;
+    padding: 15px 30px;
 }

@@ -35,6 +35,7 @@ input {
 .sedans {
     background-color: hsl(31, 77%, 52%);
     padding: 40px;
+    border-radius: 7px 0 0 7px;
 }
 
 .suvs {
@@ -45,6 +46,7 @@ input {
 .luxury {
     background-color: hsl(179, 100%, 13%);
     padding: 40px;
+    border-radius: 0 7px 7px 0;
 }
 
 .button-sedans {
